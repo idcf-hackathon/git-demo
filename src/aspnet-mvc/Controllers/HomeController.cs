@@ -11,6 +11,7 @@ namespace aspnet_mvc.Controllers
 {
     public class HomeController : Controller
     {
+        // C7 on hotfix
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
