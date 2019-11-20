@@ -13,6 +13,7 @@ namespace aspnet_mvc
 {
     public class Startup
     {
+        // C5 on feature 1
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
