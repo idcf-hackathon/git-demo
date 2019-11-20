@@ -11,6 +11,8 @@ namespace aspnet_mvc
 {
     public class Program
     {
+        // C5 on feature 1
+        // C6 on feature 1
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
